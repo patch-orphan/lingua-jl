@@ -1,3 +1,3 @@
 # Stemmer
 
-[![Build Status](https://travis-ci.org/patch/Stemmer.jl.png)](https://travis-ci.org/patch/Stemmer.jl)
+[![Build status](https://travis-ci.org/patch/stemmer-jl.png)](https://travis-ci.org/patch/stemmer-jl)
