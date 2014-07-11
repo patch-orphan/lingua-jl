@@ -1,4 +1,4 @@
-using Stemmer
+using Lingua
 using Base.Test
 
 @test stem("благодаря",    "bg") == "благодар"  # remove -я
