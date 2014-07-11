@@ -1,4 +1,4 @@
-[![Build status](https://travis-ci.org/patch/stemmer-jl.png)](https://travis-ci.org/patch/stemmer-jl)
+[![Build status](https://travis-ci.org/patch/lingua-jl.png)](https://travis-ci.org/patch/lingua-jl)
 
 # Lingua Julia
 
